@@ -56,13 +56,13 @@ const Navbar = () => {
           </li>
 
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
-            <a className='flex justify-between items-center w-full text-gray300' href="https://www.linkedin.com/in/elias-ramirez90/"target='_blank'>
+            <a className='flex justify-between items-center w-full text-gray300' href="/"target='_blank'>
               Email <HiOutlineMail size={30} />
             </a>
           </li>
 
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
-            <a className='flex justify-between items-center w-full text-gray300' href="https://www.linkedin.com/in/elias-ramirez90/"target='_blank'>
+            <a className='flex justify-between items-center w-full text-gray300' href="https://docs.google.com/document/d/1rE9GTBpqfC-lMEgzN2luFJ4L9Xcv4QTTFSkYeMBylpc/edit?usp=sharing"target='_blank'>
               Resume <BsFillPersonLinesFill size={30} />
             </a>
           </li>
