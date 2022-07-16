@@ -11,9 +11,9 @@ const Home = () => {
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>Full Stack Engineer</h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>I'm a full-stack engineer specializing in front-end development. Currently I'm focused on building responsive web applications using React.js </p>
         <div>
-          <button className='text-white border-2 px-6 py-3 my-2 flex items-center'>
+          <button className='text-white border-2 hover:bg-blue-500 hover:border-blue-500 px-6 py-3 my-2 flex items-center'>
           View Work 
-          <span className='hover:rotate-90 duration-300'>
+          <span>
           <HiArrowNarrowRight className='ml-3'/>
           </span> 
           </button>
