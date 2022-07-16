@@ -63,7 +63,7 @@ const Work = () => {
               </div>
             </div>
           </div>
-          <div style={{backgroundImage: `url(${Kelp})`}} className='shadow-lg shadow-[#040c16] group container rounder-md flex justify-center items-center mx-auto content-div'>
+          <div style={{backgroundImage: `url(${realEstate})`}} className='shadow-lg shadow-[#040c16] group container rounder-md flex justify-center items-center mx-auto content-div'>
             
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
