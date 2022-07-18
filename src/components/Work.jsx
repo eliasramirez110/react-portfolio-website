@@ -1,5 +1,5 @@
 import React from 'react'
-import WorkImg from '../assets/workImg.jpeg'
+// import WorkImg from '../assets/workImg.jpeg'
 import realEstate from '../assets/realestate.jpg'
 import outcomestracker from '../assets/outcomestracker.png'
 import Kelp from '../assets/Kelp.png'
